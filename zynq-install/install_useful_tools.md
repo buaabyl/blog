@@ -33,3 +33,13 @@ root@zedboard:~# apt-get install python3-pip python3-wheel
 root@zedboard:~# python3 -m pip install --upgrade pip
 ```
 
+Instll numpy
+```
+root@zedboard:~# pip3 install numpy
+Collecting numpy
+  Downloading numpy-1.14.1.zip (4.9MB)
+    100% |################################| 4.9MB 18kB/s
+Building wheels for collected packages: numpy
+  Running setup.py bdist_wheel for numpy ... /
+```
+
