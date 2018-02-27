@@ -43,3 +43,5 @@ Building wheels for collected packages: numpy
   Running setup.py bdist_wheel for numpy ... /
 ```
 
+Too slow...
+
