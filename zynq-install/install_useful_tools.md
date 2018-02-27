@@ -18,3 +18,18 @@ After this operation, 1256 kB of additional disk space will be used.
 Get:1 http://ports.ubuntu.com/ubuntu-ports xenial/main armhf bash-completion all 1:2.1-4.2ubuntu1 [153 kB]
 ```
 
+Intall build tools
+```
+root@zedboard:~# apt-get install build-essential cmake inxi \
+    curl lftp git-core p7zip pkg-config \
+    libssl-dev libmcrypt-dev \
+    ncurses-base ncurses-hexedit \
+    libpcre2-dev libpcre3-dev libcurl4-openssl-dev
+```
+
+Prepare python tools
+```
+root@zedboard:~# apt-get install python3-pip python3-wheel
+root@zedboard:~# python3 -m pip install --upgrade pip
+```
+
