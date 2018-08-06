@@ -1,6 +1,9 @@
 
 
 
+1. [What does fsbl do](What_does_fsbl_do.md)
+2. [Zynq install steps](zynq-install)
+3. [mkimage for Zynq BOOT.bin](mk7img)
 -----
 
 ![CC logo](https://github.com/buaabyl/blog/raw/master/CC.png)
